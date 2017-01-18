@@ -1,0 +1,7 @@
+{
+  "client_id": "YOUR CLIENT ID",
+  "client_secret": "YOUR CLIENT SECRET",
+  "code": "GET FROM AUTH URL",
+  "callback_url": "http://127.0.0.1:8080/"
+}
+
